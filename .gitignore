@@ -29,11 +29,10 @@ env/
 .env
 
 # -----------------------------
-# Model Files (optional)
+# Model Files
 # -----------------------------
-*.pkl
-*.joblib
-
+# Model artifacts are included because
+# the Streamlit application requires them.
 # -----------------------------
 # Logs
 # -----------------------------
